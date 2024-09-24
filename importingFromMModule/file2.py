@@ -1,0 +1,1 @@
+print("this is the content from file 2")
